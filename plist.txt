@@ -1,3 +1,4 @@
 1 brotherhood-boots.thor
 2 custom-items-combined.thor
 3 custom-items-followup.thor
+4 custom-items-30039-30045.thor
