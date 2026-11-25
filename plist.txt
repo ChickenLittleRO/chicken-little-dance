@@ -4,3 +4,4 @@
 4 custom-items-30039-30045.thor
 5 custom-items-30048-30050.thor
 6 wings-30051-30059.thor
+7 client-exe-update-7.thor
